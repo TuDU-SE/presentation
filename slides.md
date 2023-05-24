@@ -1,6 +1,8 @@
 ==
 # TuDu
 ## A task planner with style
+
+Note: the last line predecessed with Note: is a speaker note
 --
 nested slide
 ==
