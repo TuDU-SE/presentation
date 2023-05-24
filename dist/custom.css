@@ -1,0 +1,12 @@
+.slides section:not(.stack)  {
+    /* This is css for every slide */
+    width: 100%;
+    height: 100%;
+    
+    /* Auto Layout */
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
